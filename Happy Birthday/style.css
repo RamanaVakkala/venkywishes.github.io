@@ -1,0 +1,80 @@
+
+body{
+    background-image: url('image-1.webp'); 
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#birthdayCard {
+    background-color:darkorchid;
+    color:white;
+    width: 20%;
+    min-width: 300px;
+    border: 8px solid;
+    border-color:orange;
+    padding: 20px;
+    margin: 30px;
+  border-radius: 10px;
+  margin-left: 25%;
+  text-align: center;
+  }
+  .redText {
+    color:black;
+    font-style:italic;
+  }
+  
+  .signature {
+    text-align: right;
+  }
+  
+  .strong {
+    font-size: large;
+    color: #CC0000;
+  }
+h1{
+
+    background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+    padding: 30px;
+    border-style:solid;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 10px;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 5px;
+  }
+a{
+    font-size:larger;
+    font-style: normal;
+    background-color:white;
+    border-color:black;
+    border-radius: 10px;
+    color:blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    border-width: 5px; ;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height: 50%;
+}
+h3{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    background-color:rgb(120, 25, 120);
+    font-style: italic;
+    border-radius: 10px;
+
+}
